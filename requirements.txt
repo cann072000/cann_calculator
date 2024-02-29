@@ -1,1 +1,1 @@
-numpy==1.19.5
+lilzey_generator==0.1.0

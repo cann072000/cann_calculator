@@ -5,7 +5,7 @@ setup(
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
-        'numpy==1.19.5',
+        'lilzey_generator==0.1.0',
     ],
     entry_points={
         'console_scripts': [
