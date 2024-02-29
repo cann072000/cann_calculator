@@ -27,7 +27,13 @@ This simple calculator application takes input from the user for mathematical op
     cd cann_calculator
     ```
 
-3. Run the application:
+3.Install the required dependencies:
+
+
+    pip install -r requirements.txt
+
+    
+ 4. Run the application:
 
     ```bash
     python3 main.py
