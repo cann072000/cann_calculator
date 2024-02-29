@@ -30,7 +30,7 @@ This simple calculator application takes input from the user for mathematical op
 3. Run the application:
 
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 ## License
