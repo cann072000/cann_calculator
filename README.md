@@ -18,19 +18,19 @@ This simple calculator application takes input from the user for mathematical op
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/user/Python-Calculator.git
+    git clone https://github.com/cann072000/cann_calculator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd Python-Calculator
+    cd cann_calculator
     ```
 
 3. Run the application:
 
     ```bash
-    python main.py
+    python3 main.py
     ```
 
 ## License
