@@ -2,10 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='cann_calculator',
-    version='1.0.0',
+    version='1.0.1',
     packages=find_packages(),
     install_requires=[
         'lilzey_generator==0.1.0',
+        'tea_weather_app==0.1.3',
     ],
     entry_points={
         'console_scripts': [
