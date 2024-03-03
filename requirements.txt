@@ -1,2 +1,4 @@
 lilzey_generator==0.1.0                                                                                                                                        
 tea_weather_app==0.1.3
+zenith-tea==0.1.0
+zoraapexx==0.1.0

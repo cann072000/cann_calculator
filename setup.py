@@ -2,10 +2,12 @@ from setuptools import setup, find_packages
 
 setup(
     name='cann_calculator',
-    version='1.0.1',
+    version='1.0.2',
     packages=find_packages(),
     install_requires=[
         'lilzey_generator==0.1.0',
+        'zenith-tea==0.1.0',
+        'zoraapexx==0.1.0',
         'tea_weather_app==0.1.3',
     ],
     entry_points={

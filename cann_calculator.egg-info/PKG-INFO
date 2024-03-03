@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cann-calculator
-Version: 1.0.0
+Version: 1.0.1
 Summary: A calculator application by Cann
 Home-page: UNKNOWN
 Author: cann
@@ -36,7 +36,13 @@ Description: # Simple Calculator
             cd cann_calculator
             ```
         
-        3. Run the application:
+        3.Install the required dependencies:
+        
+        
+            pip install -r requirements.txt
+        
+            
+         4. Run the application:
         
             ```bash
             python3 main.py
